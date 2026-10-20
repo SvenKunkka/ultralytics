@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/events/yolovision" target="_blank">
@@ -277,3 +281,32 @@ For Ultralytics bug reports and feature requests please visit [GitHub Issues](ht
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+来自 ultralytics/ultralytics 的个人 Fork，保留 Ultralytics YOLO 的计算机视觉工具与示例，覆盖目标检测、跟踪、实例分割、图像分类和姿态估计等任务。
+
+**使用入口：** 可按原 README 使用 `pip install ultralytics` 安装上游发布包；此 Fork 的源码与版本以仓库提交为准，使用文档见原 README 链接。
+
+**范围说明：** 本仓不代表上游最新版本；安装包来源、模型许可及商用条件以对应上游资料为准，原作者归属保留。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A personal fork of ultralytics/ultralytics, preserving Ultralytics YOLO tools and examples for object detection, tracking, instance segmentation, image classification and pose estimation.
+
+**Getting started:** The original README uses `pip install ultralytics` for the upstream package. This fork’s source version is determined by its commits; follow the documentation links in the original README for usage.
+
+**Scope:** This repository does not represent the latest upstream version. Package provenance, model licensing and commercial terms follow the relevant upstream materials; original authorship is preserved.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->

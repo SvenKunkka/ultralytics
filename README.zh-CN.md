@@ -277,3 +277,12 @@ Ultralytics 提供两种许可选项以适应各种用例：
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
+
+
+<!-- SVENKUNKKA-CONTACT:BEGIN -->
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-CONTACT:END -->
